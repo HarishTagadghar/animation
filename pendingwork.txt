@@ -1,0 +1,11 @@
+1 ) remove second font (trending producs) form home page 
+2 ) change order page every thing
+3) update order page performance without refresh
+4) add home page redirection to card like shop now
+5) update update user page
+6) email notification 
+7) redirection for banners
+8) add some pre-loaders
+9) show content name on menu buttons
+10) multipal images (binary,cloudbinary,s3)
+11) product zoom effect
